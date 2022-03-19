@@ -1,0 +1,12 @@
+let initialState = {
+    text:"Le Louvre est un des meilleurs musées du monde. H se trouve dans un grand palais.C'est le remarquable œuvre de l'architecture française. En 1200, Philippe Auguste élève, près de la Seine, au point le plus faible de la défense de Paris, le château fort du Louvre. Le rois n'y habite pas. Il y enferme son trésor, ses archives. Charles le Sage transforme le Louvre en demeure habitable. Sous François Ier le Louvre se transforme en un palais, sur les fondations de l'ancienne forteresse. L'architecte Pierre Lescot est chargé de travaux. Le célèbre sculpteur Jean Goujon devient son collaborateur. Mais à la mort de François Ier, les travaux sont loin d'être terminés. Lois XIV entreprend les travaux pour agrandir le Louvre. Claude Perrault construit la fameuse Colonnade. Mais en 1682 la Cour quitte officiellement le Louvre pour Versailles. Les travaux de reconstruction sont abandonnés. Des locataires de toutes sortes s'installent au Louvre. Dans la Colonnade l'espace est divisée en logements. Dans la cour, des maisons se sont élevées. En 1793 la Convention révolutionnaire transforme le palais en Muséum de la République. Napoléon Fr s'est emparé d'un grand nombre d’œuvres d'art. Au cours de la campagne le Louvre devient alors le plus riche musée du monde. Actuellement, le Musée du Louvre contient six musées ou départements: antiquités grecques et romaines, antiquités égyptiennes, antiquités orientales, sculptures, objets d'art, peintures. La peinture est représentée par les Écoles française, espagnole, hollandaise, flamande, italienne, allemande. On n'en finirait pas d'énumérer les merveilles du Louvre. Le catalogue du Musée compte près de 400 000 pièces. Il faut vraiment des années pour visiter en détail toutes les salles. Au Louvre se trouve la Joconde de Léonardo de Vinci, la Véhus de Milo, la Victoire de Samothrace (les auteurs de ces deux sculptures sont inconnus). Ces trois superstrats font venir chaque année plus de 3 000 000 de visiteurs au Louvre.",
+    photo:"https://wallpapershome.ru/images/wallpapers/eyfeleva-bashnya-7680x4320-parij-franciya-turizm-puteshestvie-4714.jpg"
+}
+
+const mainReducer = (state = initialState, action) => {
+    switch (action.type) {
+        default: return state;
+    }
+}
+
+export default mainReducer;

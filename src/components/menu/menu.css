@@ -1,0 +1,29 @@
+.Menu{
+    background-color: aquamarine;
+    text-align: left;
+    width: 200px;
+    height:300px;
+    margin-right: 10px;
+    border-radius: 10px;
+    
+}
+
+.Navbar{
+    padding-top: 30px;
+    padding-left: 20px;
+    font-size: 15px;
+    
+}
+ 
+.Nav-item{
+    cursor: pointer;
+    font-size: 17px;
+    color: black;
+    text-decoration: none;
+  }
+
+.Nav-item:hover{
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.2s;
+}

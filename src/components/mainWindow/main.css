@@ -1,0 +1,27 @@
+.Main{
+    background-color: blueviolet;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+}
+
+
+.PictureMain{
+    width: 800px;
+    padding: 100px 20px;
+}
+
+.TitleText{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+.TextContent{
+    font-size: 16px;
+}
+
+.TextMain{
+    padding: 20px;
+}

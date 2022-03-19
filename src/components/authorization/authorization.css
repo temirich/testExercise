@@ -1,0 +1,43 @@
+.Authorization{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    width: 100%;
+    
+}
+
+.Inputs{
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    position: relative;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+
+.AuthorizationInputs{
+    width: 250px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: none;
+    
+}
+
+.AuthorizationButton{
+    width: 170px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: plum;
+    border: none;
+    cursor: pointer;
+}
+
+.AuthorizationButton:hover{
+    border: 1px solid;
+    background-color: rgb(190, 128, 190);
+}

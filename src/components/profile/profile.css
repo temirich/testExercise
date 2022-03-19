@@ -1,0 +1,36 @@
+.Profile{
+    background-color: blueviolet;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.HeadOfProfile{
+    display: flex;
+}
+
+.PhotoOfProfile{
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 30px;
+}
+
+.NameOfUser{
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Title{
+    font-size: 20px;
+    
+}
+
+.Comments{
+    padding-top: 10px;
+    font-size:15px;
+}
+
+.TextOfProfile{
+    padding-top: 20px;
+    padding-left: 20px;
+}

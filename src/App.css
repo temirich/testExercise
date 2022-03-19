@@ -1,0 +1,11 @@
+.App {
+  width: 1600px;
+  margin:0 auto;
+}
+
+.InformationBlock{
+  display: flex;
+  margin-top: 10px;
+}
+
+

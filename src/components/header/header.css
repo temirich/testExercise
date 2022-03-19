@@ -1,0 +1,18 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f3f2d5;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.HeaderPicture{
+    width: 40px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.Header .Nav-item{
+    padding-top:10px ;
+    padding-right: 20px;
+}
